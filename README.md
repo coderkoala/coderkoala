@@ -29,10 +29,12 @@ Everything since 2017, with screenshots: **[nobeldahal.com.np/work](https://nobe
 
 ### Writing
 
+- [Handing out air waybill numbers without handing out the same one twice](https://nobeldahal.com.np/writing/handing-out-air-waybill-numbers)
+- [Most waybills are the usual one](https://nobeldahal.com.np/writing/most-waybills-are-the-usual-one): a learning engine with no model
+- [mTLS and OAuth2 on the same call, step by step](https://nobeldahal.com.np/writing/mtls-and-oauth2-together)
+- [What building IATA ONE Record taught me about linked data](https://nobeldahal.com.np/writing/what-one-record-taught-me)
 - [Taking money on a government website](https://nobeldahal.com.np/writing/taking-money-on-a-government-website)
-- [The check that only lived in the browser](https://nobeldahal.com.np/writing/the-check-that-only-lived-in-the-browser)
-- [Why every edit in Kaede leaves a fingerprint](https://nobeldahal.com.np/writing/why-every-edit-is-chained)
-- [More case studies](https://nobeldahal.com.np/writing/)
+- [All posts](https://nobeldahal.com.np/writing/)
 
 ### Tools I reach for
 
