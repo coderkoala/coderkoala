@@ -1,8 +1,8 @@
 # Nobel Dahal <sub>नोबेल दाहाल</sub>
 
-Freelance software engineer and consultant in Kathmandu, Nepal. I build the software businesses count on: ERP, CRM and operations systems, from the database schema to the screen people use all day.
+Freelance full-stack developer and software engineer in Kathmandu, Nepal. I build the software businesses count on: ERP, CRM and operations systems, from the database schema to the screen people use all day.
 
-**[nobeldahal.com.np](https://nobeldahal.com.np)** · [Résumé](https://nobeldahal.com.np/download/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/coderkoala) · nobel@dahal.tech
+**[nobeldahal.com.np](https://nobeldahal.com.np)** · [Résumé](https://nobeldahal.com.np/download/resume.pdf) · [Hire me](https://nobeldahal.com.np/hire) · [LinkedIn](https://www.linkedin.com/in/coderkoala) · nobel@dahal.tech
 
 ---
 
