@@ -2,7 +2,7 @@
 
 Freelance software engineer and consultant in Kathmandu, Nepal. I build the software businesses count on: ERP, CRM and operations systems, from the database schema to the screen people use all day.
 
-**[nobeldahal.com.np](https://www.nobeldahal.com.np)** · [Résumé](https://www.nobeldahal.com.np/download/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/coderkoala) · nobel@dahal.tech
+**[nobeldahal.com.np](https://nobeldahal.com.np)** · [Résumé](https://nobeldahal.com.np/download/resume.pdf) · [LinkedIn](https://www.linkedin.com/in/coderkoala) · nobel@dahal.tech
 
 ---
 
@@ -10,11 +10,11 @@ Freelance software engineer and consultant in Kathmandu, Nepal. I build the soft
 
 | | |
 | --- | --- |
-| **[Kaede](https://www.nobeldahal.com.np/work/kaede)** · 2022–now | Cargo ERP for freight forwarders. Reads booking emails and drafts the waybill, learns routings and parties from the office's own history, talks to airlines in IATA ONE Record and Cargo-XML, and runs pickup, delivery, billing and payroll. Laravel, Vue 3, PostgreSQL. |
-| **[Kalimati Market](https://www.nobeldahal.com.np/work/kalimati)** · 2021–2025 | Built solo for Nepal's largest wholesale produce market: daily prices for 100+ commodities, an ad-free Android app, and dues paid online through eSewa and Khalti with fraud checks and a signed payment API. |
-| **[GenericProperties](https://www.nobeldahal.com.np/work/generic-properties)** · 2020–21 | Moved a US brokerage from Zoho to Microsoft Dynamics 365, then built a Node service that finds the agents nearest a lead among millions and maps them in seconds. |
+| **[Kaede](https://nobeldahal.com.np/work/kaede)** · 2022–now | Cargo ERP for freight forwarders. Reads booking emails and drafts the waybill, learns routings and parties from the office's own history, talks to airlines in IATA ONE Record and Cargo-XML, and runs pickup, delivery, billing and payroll. Laravel, Vue 3, PostgreSQL. |
+| **[Kalimati Market](https://nobeldahal.com.np/work/kalimati)** · 2021–2025 | Built solo for Nepal's largest wholesale produce market: daily prices for 100+ commodities, an ad-free Android app, and dues paid online through eSewa and Khalti with fraud checks and a signed payment API. |
+| **[GenericProperties](https://nobeldahal.com.np/work/generic-properties)** · 2020–21 | Moved a US brokerage from Zoho to Microsoft Dynamics 365, then built a Node service that finds the agents nearest a lead among millions and maps them in seconds. |
 
-Everything since 2017, with screenshots: **[nobeldahal.com.np/work](https://www.nobeldahal.com.np/work/)**
+Everything since 2017, with screenshots: **[nobeldahal.com.np/work](https://nobeldahal.com.np/work/)**
 
 ### Open source
 
@@ -26,10 +26,10 @@ Everything since 2017, with screenshots: **[nobeldahal.com.np/work](https://www.
 
 ### Writing
 
-- [Taking money on a government website](https://www.nobeldahal.com.np/writing/taking-money-on-a-government-website)
-- [The check that only lived in the browser](https://www.nobeldahal.com.np/writing/the-check-that-only-lived-in-the-browser)
-- [Why every edit in Kaede leaves a fingerprint](https://www.nobeldahal.com.np/writing/why-every-edit-is-chained)
-- [More case studies](https://www.nobeldahal.com.np/writing/)
+- [Taking money on a government website](https://nobeldahal.com.np/writing/taking-money-on-a-government-website)
+- [The check that only lived in the browser](https://nobeldahal.com.np/writing/the-check-that-only-lived-in-the-browser)
+- [Why every edit in Kaede leaves a fingerprint](https://nobeldahal.com.np/writing/why-every-edit-is-chained)
+- [More case studies](https://nobeldahal.com.np/writing/)
 
 ### Tools I reach for
 
