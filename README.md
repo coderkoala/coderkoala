@@ -8,11 +8,14 @@ Freelance software engineer and consultant in Kathmandu, Nepal. I build the soft
 
 ### Selected work
 
-| | |
-| --- | --- |
-| **[Kaede](https://nobeldahal.com.np/work/kaede)** · 2022–now | Cargo ERP for freight forwarders. Reads booking emails and drafts the waybill, learns routings and parties from the office's own history, talks to airlines in IATA ONE Record and Cargo-XML, and runs pickup, delivery, billing and payroll. Laravel, Vue 3, PostgreSQL. |
-| **[Kalimati Market](https://nobeldahal.com.np/work/kalimati)** · 2021–2025 | Built solo for Nepal's largest wholesale produce market: daily prices for 100+ commodities, an ad-free Android app, and dues paid online through eSewa and Khalti with fraud checks and a signed payment API. |
-| **[GenericProperties](https://nobeldahal.com.np/work/generic-properties)** · 2020–21 | Moved a US brokerage from Zoho to Microsoft Dynamics 365, then built a Node service that finds the agents nearest a lead among millions and maps them in seconds. |
+**[Kaede](https://nobeldahal.com.np/work/kaede)** · cargo ERP · 2022–now<br>
+Reads booking emails and drafts the waybill, learns routings and parties from the office's own history, talks to airlines in IATA ONE Record and Cargo-XML, and runs pickup, delivery, billing and payroll.
+
+**[Kalimati Market](https://nobeldahal.com.np/work/kalimati)** · government platform · 2021–2025<br>
+Built solo for Nepal's largest wholesale produce market: daily prices for 100+ commodities, an ad-free Android app, and dues paid online through eSewa and Khalti with fraud checks and a signed payment API.
+
+**[GenericProperties](https://nobeldahal.com.np/work/generic-properties)** · real estate CRM · 2020–21<br>
+Moved a US brokerage from Zoho to Microsoft Dynamics 365, then built a Node service that finds the agents nearest a lead among millions and maps them in seconds.
 
 Everything since 2017, with screenshots: **[nobeldahal.com.np/work](https://nobeldahal.com.np/work/)**
 
